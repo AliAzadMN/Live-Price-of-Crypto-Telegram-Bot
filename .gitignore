@@ -1,0 +1,14 @@
+### JetBrains
+.idea/
+
+### Python
+__pycache__/
+
+### Virtualenv
+venv/
+
+### Environment Variable
+.env
+
+### Interact with telegram webhook (DEV phase)
+ngrok.exe
